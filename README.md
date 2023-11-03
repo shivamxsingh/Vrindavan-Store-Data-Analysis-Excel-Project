@@ -1,15 +1,19 @@
 # Vrinda-Store-Data-Analysis-Excel-Project
 
-**Description:**
+_**Description:**_
 
 ➡️This project analyzes the sales data of Vrinda Store using Microsoft Excel. It includes interactive dashboards, charts, and graphs that visualize key metrics and help users make data-driven decisions.
 
 **Features:**
 
 📍Interactive dashboard to visualize sales and performance data
+
 📍Pivot tables to analyze data in different ways
+
 📍Charts and graphs to visualize data trends
+
 📍Ability to filter and sort data
+
 📍Ability to export data to other formats
 
 **Usage:**
