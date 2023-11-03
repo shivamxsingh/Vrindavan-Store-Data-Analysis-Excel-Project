@@ -1,4 +1,4 @@
-# Vrinda-Store-Data-Analysis-Excel-Project📊
+# Vrindavan-Store-Data-Analysis-Excel-Project📊
 
 **Description:**
 
